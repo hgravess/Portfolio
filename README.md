@@ -8,23 +8,23 @@
 September 2019 - June 2023
 
 Modules
-Linear Algebra
-Mathematical Programming
-Mathematical Modelling 1 & 2
-Data Exploratory Analysis
-Mathematical Methods
+Linear Algebra,
+Mathematical Programming,
+Mathematical Modelling 1 & 2,
+Data Exploratory Analysis,
+Mathematical Methods,
 
-Statistical Modelling
-Futher Mathematical Methods
-Numerical Methods 
-Probability and Risk
-Differential Equations
+Statistical Modelling,
+Futher Mathematical Methods,
+Numerical Methods, 
+Probability and Risk,
+Differential Equations,
 
-Statistics in the Workplace
-Introduction to Data Science
-Operational Research
-Multivariate Analysis
-Advanced Calculus
+Statistics in the Workplace,
+Introduction to Data Science,
+Operational Research,
+Multivariate Analysis,
+Advanced Calculus,
 
 Data Science Project
 
