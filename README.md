@@ -44,6 +44,6 @@ BSc Project - Surivival Analysis of the Mimic - iv dataset, Cox Regression, Rand
 
 MSc Project - TBC
 
-Data Visualisation, MLR Datasets
+Data Visualisation - MLR Datasets
 
 Data Streaming - NLP Sentiment Analysis, Random Forests
