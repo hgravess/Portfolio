@@ -24,7 +24,7 @@ Advanced Calculus
 
 Data Science Project
 
-#Data Science MSc Liverpool John Moores University - 1st Class
+Data Science MSc Liverpool John Moores University - 1st Class
 September 2023 – September 2024
 
 Modules
