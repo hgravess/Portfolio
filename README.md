@@ -3,7 +3,7 @@
 #### Technical Skills: Python, R, SQL, MATLAB
 
 ## Education:
-###Mathematics BSc - 2:1 | Liverpool John Moores University
+### Mathematics BSc - 2:1 | Liverpool John Moores University
 
 September 2019 - June 2023
 
@@ -28,7 +28,7 @@ Advanced Calculus
 
 Data Science Project
 
-###Data Science MSc - 1st Class | Liverpool John Moores University
+### Data Science MSc - 1st Class | Liverpool John Moores University
 
 September 2023 – September 2024
 
