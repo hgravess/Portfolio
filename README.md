@@ -5,8 +5,10 @@
 Data Science Project
 
 ## Work experience Project
-## Clatterbridge NHS England (To be Completed)
-Using 4 variations of Graph Neural Networks to create risk prediction models for chemotherapy patients.
+## Clatterbridge NHS England
+Completed a Data Science research project for Clatterbridge Cancer Centre. A novel machine learning project called "Comparing GNN to traditional Machine Learning algorithms when predicting multiple outcomes in chemotherapy patients." 
+
+Used SQL to extract and create a bespoke dataset from the Clatterbridge dataware house. Used Python to preprocess, clean and formulate the data for modelling. Used PyTorch and Sklearn to model the data in 6 different machine learning models. 3 traditional models LR, RF DNN, and 3 newly invented GNN models of SGC, GCN and GAT.
 
 ## Projects:
 ### Survival Analysis of the Mimic-iv Dataset - BSc Project
